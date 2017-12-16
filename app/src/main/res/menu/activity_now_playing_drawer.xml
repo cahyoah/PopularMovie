@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_favorit"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="@string/nd_favourite"/>
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/ic_search_black_24dp"
+            android:title="@string/nd_pencarian" />
+        <item
+            android:id="@+id/nav_pengaturan"
+            android:icon="@drawable/ic_language_black_24dp"
+            android:title="@string/nd_pengaturan" />
+    </group>
+
+
+
+</menu>

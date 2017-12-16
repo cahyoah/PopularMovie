@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Catalogue Movie</string>
+    <string name="hint_search">Judul Film</string>
+    <string name="judul_film">Judul Film</string>
+    <string name="deskripsi_film">Deskripsi Film</string>
+    <string name="tanggal_rilis_film">Tanggal Rilis Film</string>
+    <string name="title_activity_detail_film">DetailFilmActivity</string>
+    <string name="no_data">Data tidak ditemukan atau server error</string>
+    <!-- Error message when there is no internet connectivity [CHAR LIMIT=NONE] -->
+    <string name="no_internet_connection">Silahkan periksa koneksi anda</string>
+    <string name="title_activity_now_playing">NowPlayingActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="btn_detail">Detail</string>
+    <string name="btn_share">Bagi</string>
+    <string name="btn_reload">Ulangi</string>
+    <string name="now_playing">Sedang diputar</string>
+    <string name="up_coming">Segera Hadir</string>
+    <string name="nd_upcoming">Segera Hadir</string>
+    <string name="nd_now_playing">Sedang diputar</string>
+    <string name="nd_pengaturan">Pengaturan Bahasa</string>
+    <string name="nd_pencarian">Pencarian</string>
+    <string name="nd_favourite">Favorit</string>
+    <string name="no_favourite">Kamu tidak memiliki film favorit</string>
+    <string name="home">Beranda</string>
+    <string name="pencarian">Pencarian</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="available">Tersedia Sekarang</string>
+
+</resources>
